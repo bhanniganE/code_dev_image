@@ -8,9 +8,7 @@ code development image
 
 - [About](#about)
 - [Resources](#resources)
-  * [TBD](#tbd)
 - [Usage](#usage)
-  * 
 
 <!-- tocstop -->
 
@@ -20,9 +18,5 @@ container for command line development. includes python, terraform, Azure CLI an
 
 ## Resources
 
-### TBD
-
 ## Usage
-
-### Usage
 
